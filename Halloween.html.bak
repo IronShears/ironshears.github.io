@@ -135,7 +135,7 @@
 		<div id='status-notice' class='godot' style='display: none;'></div>
 	</div>
 
-	<script type='text/javascript' src='https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aironshears/Index.js'></script>
+	<script type='text/javascript' src="https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aironshears/Index.js"></script>
 	<script type='text/javascript'>//<![CDATA[
 
 		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"Index","experimentalVK":false,"fileSizes":{"Index.pck":168688,"Index.wasm":17493342},"focusCanvas":true,"gdnativeLibs":[]};
