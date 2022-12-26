@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='' xml:lang=''>
 <head>
 	<meta charset='utf-8' />
 	<meta name='viewport' content='width=device-width, user-scalable=no' />
@@ -111,7 +111,8 @@
 			visibility: visible;
 		}
 	</style>
-
+<link id='-gd-engine-icon' rel='icon' type='image/png' href='Index.icon.png' />
+<link rel='apple-touch-icon' href='Index.apple-touch-icon.png'/>
 
 </head>
 <body>
@@ -137,7 +138,7 @@
 	<script type='text/javascript' src='https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aironshears/Index.js'></script>
 	<script type='text/javascript'>//<![CDATA[
 
-		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"Index","experimentalVK":false,"fileSizes":{"https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aironshears/Index.pck":168688,"https://scp-sandbox-3.wdfiles.com/local--files/collab%3Aironshears/Index.wasm":17493342},"focusCanvas":true,"gdnativeLibs":[]};
+		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"Index","experimentalVK":false,"fileSizes":{"Index.pck":168688,"Index.wasm":17493342},"focusCanvas":true,"gdnativeLibs":[]};
 		var engine = new Engine(GODOT_CONFIG);
 
 		(function() {
@@ -243,3 +244,4 @@
 	//]]></script>
 </body>
 </html>
+
