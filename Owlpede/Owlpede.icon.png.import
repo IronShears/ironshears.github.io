@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Alex Thorley Goes on a Blind Date.apple-touch-icon.png-30c60a9510123531c6d74b73e6094717.stex"
+path="res://.import/Owlpede.icon.png-0e4faf4ce6275c9e385ae1a23e2c9bd5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Exports/IronShears.github.io/Alex Thorley Goes on a Blind Date.apple-touch-icon.png"
-dest_files=[ "res://.import/Alex Thorley Goes on a Blind Date.apple-touch-icon.png-30c60a9510123531c6d74b73e6094717.stex" ]
+source_file="res://Exports/IronShears.github.io/Owlpede/Owlpede.icon.png"
+dest_files=[ "res://.import/Owlpede.icon.png-0e4faf4ce6275c9e385ae1a23e2c9bd5.stex" ]
 
 [params]
 
